@@ -14,7 +14,7 @@ AquaIndex is a web platform that converts high-frequency Digital Water Level Rec
 
 India supports a large share of the world’s population with a small share of global freshwater. Groundwater monitoring has historically relied on infrequent manual readings. National DWLR networks (on the order of **5,260** recorders in the project scope) produce dense water-level series; this application turns those series into a decision-support dashboard that can be opened in a browser and hosted at no infrastructure cost.
 
-**Guide:** Prof. Prachitha M.
+**Guide:** 
 
 ---
 
@@ -229,7 +229,7 @@ Optionally add `VITE_GEMINI_API_KEY` under Project → Settings → Environment 
 | Sushant Kumar | Backend and API structure |
 | Srushti S Mopagar | Architecture and user interface |
 
-**Guide:** Prof. Prachitha M.
+**Guide:** 
 
 ---
 
